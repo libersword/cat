@@ -1,0 +1,12 @@
+body {
+    background: url('captain.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 150px;
+    position: absolute;
+    bottom: 0;
+    color: white;
+}
